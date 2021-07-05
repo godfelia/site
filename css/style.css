@@ -1,0 +1,115 @@
+body
+{
+  height: 100%;
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.introchasiki
+
+{ 
+  margin: 0px;
+  height: 40px;
+  width: auto;
+  background-color: black;
+}
+
+.intro
+{
+  color:whitesmoke;
+  background-image: url("../images/code.jpg") ;
+  background-size: cover;
+  background-repeat: repeat ;
+  background-position: center center ;
+  width: auto;
+  min-height: 95vh;
+}
+
+  .intro_text
+  {
+  height: 100px;
+  line-height: 300px; 
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-size: 60px;  
+  }
+
+  .ava
+  {
+  width: auto;
+  height: 375px;
+  float: right;
+  margin-right: 50px ;
+  margin-top: 100px;
+  border: whitesmoke;
+  border-radius: 35px;
+  border-width: 1.5;
+  border-style:solid;
+}
+
+
+  
+  .content
+  {
+    color: whitesmoke;
+    width: auto;
+    height: 1000px;
+    background-color: rgb(27, 40, 49);
+    font-size: 20px; 
+    line-height: 1.9;
+    font-family: Arial, Helvetica, sans-serif;
+   
+   
+  }
+  
+  .content_text
+  {
+  
+  margin-left: 100px;
+  float: left;
+  
+  }
+
+  
+
+ .footer
+ {
+   height: auto;
+   width: auto;
+   background-color: black;
+   color: whitesmoke;
+ }
+
+ h1
+ {
+   margin: 0px;
+   font-size: 20px;
+   text-align: center;
+  }
+
+ .footer_text
+ {
+  margin-left: 100px;
+  margin-top:40px ;
+  color: whitesmoke;}
+   
+
+
+ .insta
+ { 
+   margin-top: 60px;
+   height: 32px;
+   width: auto;
+ }
+ 
+ a
+ {color:#548dff;}
+ .facebook  
+ {
+   margin-left: 200px;
+   margin-top: 60px;
+  height: 32px;
+  width: auto;
+ }
